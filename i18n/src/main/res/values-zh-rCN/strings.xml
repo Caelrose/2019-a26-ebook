@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">登录</string>
+    <string name="hello_world">你好，世界</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="exit">退出</string>
+    <string name="attempt">可剩余的尝试次数:</string>
+    <string name="success">登录成功</string>
+    <string name="fail">登录失败</string>
+    <string name="wait">请等待</string>
+</resources>

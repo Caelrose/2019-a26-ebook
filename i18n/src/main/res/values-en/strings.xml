@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hello_world">HELLO,WORLD!</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="login">Login</string>
+    <string name="exit">Exit</string>
+    <string name="attempt">Attempts Left:</string>
+    <string name="success">Login Success</string>
+    <string name="fail">Login fail</string>
+    <string name="wait">Please wait for  </string>
+
+</resources>
