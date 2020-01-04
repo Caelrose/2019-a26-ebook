@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.xw.repo:PullToRefresh:2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PullToRefresh-2.1.aar/6929b7d55a5436d757bf4de0b72dfc6c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-PullToRefresh-2.1.aar/6929b7d55a5436d757bf4de0b72dfc6c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xw.repo/PullToRefresh/2.1/fbec4985e17566bae56de846abeda4a7b3ee52d5/PullToRefresh-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

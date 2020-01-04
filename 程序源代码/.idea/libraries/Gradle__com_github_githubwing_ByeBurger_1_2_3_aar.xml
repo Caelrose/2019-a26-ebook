@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.githubwing:ByeBurger:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-ByeBurger-1.2.3.aar/6e26332707d16c562ddab9fd4680a865/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-ByeBurger-1.2.3.aar/6e26332707d16c562ddab9fd4680a865/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
